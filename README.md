@@ -2,7 +2,6 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bichara-b0585a191/) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sliverpow&theme=blue-green)
-![Charts](https://github-readme-stats.vercel.app/api?username=sliverpow&theme=blue-green)
 
 ### Skills
 
